@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AttendIQ: Attendance Analytics</title>
+<link rel="stylesheet" href="style.css">
+<link rel="icon" type="image,jpg" href="attendiq.jpg">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+</head>
+<body>
+<aside class="side">
+  <div class="brand"><span class="logo">A</span><div><b>AttendIQ</b><small>Absenteeism prediction</small></div></div>
+  <nav id="nav">
+    <button data-tab="overview" class="on"><i>◉</i>Overview</button>
+    <button data-tab="analytics"><i>▤</i>Analytics</button>
+    <button data-tab="prediction"><i>◈</i>Prediction</button>
+    <button data-tab="students"><i>☰</i>Students</button>
+  </nav>
+  <div class="sidefoot">Semester 3<br><b>Week 9 of 15</b></div>
+</aside>
+
+<div class="content">
+  <header class="top">
+    <div><h1 id="title">Overview</h1><p id="sub">Where attendance stands today and who needs help first.</p></div>
+    <button id="csv" class="btn">Download defaulter list</button>
+  </header>
+
+  <section class="tab" id="t-overview">
+    <div class="kpis" id="kpis"></div>
+    <h2 class="sec">How the system works</h2>
+    <div class="pipeline" id="pipeline"></div>
+    <div class="panel"><h2>Alerts: students most likely to fall short</h2><ul id="alerts" class="alerts"></ul></div>
+  </section>
+
+  <section class="tab" id="t-analytics" hidden>
+    <div class="grid">
+      <div class="panel"><h2>Subject-wise attendance</h2><canvas id="cSubject"></canvas></div>
+      <div class="panel"><h2>Semester-wise average</h2><canvas id="cSem"></canvas></div>
+      <div class="panel"><h2>Weekly trend by group</h2><canvas id="cWeek"></canvas></div>
+      <div class="panel"><h2>Attendance vs marks <span id="corr" class="tag"></span></h2><canvas id="cScatter"></canvas></div>
+    </div>
+  </section>
+
+  <section class="tab" id="t-prediction" hidden>
+    <div class="grid">
+      <div class="panel">
+        <h2>Model performance</h2>
+        <p class="note">Trained on Semesters 1 and 2, tested on Semester 3.</p>
+        <div class="metrics" id="metrics"></div>
+        <table class="cm" id="cm"></table>
+      </div>
+      <div class="panel"><h2>What drives absenteeism</h2><p class="note">Red bars raise shortage risk. Green bars lower it.</p><canvas id="cWeights"></canvas></div>
+    </div>
+  </section>
+
+  <section class="tab" id="t-students" hidden>
+    <div class="panel">
+      <div class="toolbar">
+        <input id="search" type="search" placeholder="Search student ID, e.g. S012" aria-label="Search student">
+        <select id="filter" aria-label="Filter students">
+          <option value="all">All students</option>
+          <option value="def">Defaulters (below 75% now)</option>
+          <option value="High">High risk</option>
+          <option value="Medium">Medium risk</option>
+          <option value="Low">Low risk</option>
+        </select>
+      </div>
+      <div class="scroll">
+        <table id="tbl">
+          <thead><tr><th>Student</th><th>Group</th><th>Attendance</th><th>Last 3 weeks</th><th>Marks</th><th>Shortage risk</th><th>Level</th><th>Recommended action</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script src="script.js"></script>
+<script>
+const TITLES={overview:['Overview','Where attendance stands today and who needs help first.'],
+  analytics:['Analytics','Attendance patterns by subject, semester and group.'],
+  prediction:['Prediction','How well the model forecasts attendance shortage.'],
+  students:['Students','Defaulters, risk levels and corrective actions.']};
+document.getElementById('nav').addEventListener('click',e=>{
+  const b=e.target.closest('button');if(!b)return;
+  const t=b.dataset.tab;
+  document.querySelectorAll('#nav button').forEach(x=>x.classList.toggle('on',x===b));
+  document.querySelectorAll('.tab').forEach(s=>s.hidden=s.id!=='t-'+t);
+  document.getElementById('title').textContent=TITLES[t][0];
+  document.getElementById('sub').textContent=TITLES[t][1];
+  window.dispatchEvent(new Event('resize'));
+});
+</script>
+</body>
+</html>

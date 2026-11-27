@@ -1,0 +1,301 @@
+student_id,group,attendance_pct,shortage_risk_pct,risk_level,classes_needed_for_75,recommendation
+208,B,58.8,100.0,High,,High shortage risk: review attendance and provide support
+177,A,58.9,100.0,High,,High shortage risk: review attendance and provide support
+227,C,61.7,100.0,High,,High shortage risk: review attendance and provide support
+84,A,62.3,100.0,High,,High shortage risk: review attendance and provide support
+64,B,61.4,100.0,High,,High shortage risk: review attendance and provide support
+256,B,53.1,100.0,High,,High shortage risk: review attendance and provide support
+217,B,61.7,100.0,High,,High shortage risk: review attendance and provide support
+98,C,53.8,100.0,High,,High shortage risk: review attendance and provide support
+211,B,56.8,100.0,High,,High shortage risk: review attendance and provide support
+203,C,50.6,100.0,High,,High shortage risk: review attendance and provide support
+30,A,62.0,100.0,High,,High shortage risk: review attendance and provide support
+296,C,62.7,100.0,High,,High shortage risk: review attendance and provide support
+300,A,43.8,100.0,High,,High shortage risk: review attendance and provide support
+103,B,62.1,100.0,High,,High shortage risk: review attendance and provide support
+54,A,64.7,100.0,High,,High shortage risk: review attendance and provide support
+44,C,61.6,100.0,High,,High shortage risk: review attendance and provide support
+166,B,59.6,100.0,High,,High shortage risk: review attendance and provide support
+297,A,50.7,100.0,High,,High shortage risk: review attendance and provide support
+206,C,62.9,99.9,High,,High shortage risk: review attendance and provide support
+105,A,65.3,99.9,High,,High shortage risk: review attendance and provide support
+186,A,66.2,99.9,High,,High shortage risk: review attendance and provide support
+235,B,60.8,99.9,High,,High shortage risk: review attendance and provide support
+214,B,55.3,99.9,High,,High shortage risk: review attendance and provide support
+95,C,51.6,99.8,High,,High shortage risk: review attendance and provide support
+246,A,68.4,99.8,High,,High shortage risk: review attendance and provide support
+4,B,64.1,99.8,High,,High shortage risk: review attendance and provide support
+234,A,60.1,99.8,High,,High shortage risk: review attendance and provide support
+31,B,58.6,99.8,High,,High shortage risk: review attendance and provide support
+146,C,64.9,99.8,High,,High shortage risk: review attendance and provide support
+286,B,63.9,99.8,High,,High shortage risk: review attendance and provide support
+277,B,64.1,99.6,High,,High shortage risk: review attendance and provide support
+243,A,64.8,99.6,High,,High shortage risk: review attendance and provide support
+241,B,65.2,99.6,High,,High shortage risk: review attendance and provide support
+220,B,59.3,99.6,High,,High shortage risk: review attendance and provide support
+28,B,61.4,99.5,High,,High shortage risk: review attendance and provide support
+180,A,63.1,99.5,High,,High shortage risk: review attendance and provide support
+42,A,65.7,99.4,High,,High shortage risk: review attendance and provide support
+117,A,53.2,99.3,High,,High shortage risk: review attendance and provide support
+268,B,45.2,99.3,High,,High shortage risk: review attendance and provide support
+75,A,65.8,99.3,High,,High shortage risk: review attendance and provide support
+173,C,68.7,99.1,High,,High shortage risk: review attendance and provide support
+63,A,65.1,99.0,High,,High shortage risk: review attendance and provide support
+131,C,68.0,98.5,High,,High shortage risk: review attendance and provide support
+85,B,61.6,98.5,High,,High shortage risk: review attendance and provide support
+25,B,70.3,98.2,High,,High shortage risk: review attendance and provide support
+37,B,69.3,97.9,High,,High shortage risk: review attendance and provide support
+3,A,64.7,97.9,High,,High shortage risk: review attendance and provide support
+293,C,54.2,97.9,High,,High shortage risk: review attendance and provide support
+148,B,68.2,97.9,High,,High shortage risk: review attendance and provide support
+267,A,70.4,97.8,High,,High shortage risk: review attendance and provide support
+249,A,67.6,97.7,High,,High shortage risk: review attendance and provide support
+115,B,66.6,97.7,High,,High shortage risk: review attendance and provide support
+51,A,66.5,97.6,High,,High shortage risk: review attendance and provide support
+221,C,70.6,97.5,High,,High shortage risk: review attendance and provide support
+155,C,64.2,97.0,High,,High shortage risk: review attendance and provide support
+61,B,65.3,96.6,High,,High shortage risk: review attendance and provide support
+79,B,69.0,96.1,High,,High shortage risk: review attendance and provide support
+15,A,73.1,96.0,High,,High shortage risk: review attendance and provide support
+97,B,62.9,95.7,High,,High shortage risk: review attendance and provide support
+96,A,62.8,95.4,High,,High shortage risk: review attendance and provide support
+196,B,72.0,95.1,High,,High shortage risk: review attendance and provide support
+269,C,66.1,94.9,High,,High shortage risk: review attendance and provide support
+215,C,66.0,94.5,High,,High shortage risk: review attendance and provide support
+290,C,72.0,94.5,High,,High shortage risk: review attendance and provide support
+17,C,63.7,94.2,High,,High shortage risk: review attendance and provide support
+253,B,64.9,93.6,High,,High shortage risk: review attendance and provide support
+10,B,72.0,91.7,High,,High shortage risk: review attendance and provide support
+65,C,71.1,91.6,High,,High shortage risk: review attendance and provide support
+48,A,70.0,90.8,High,,High shortage risk: review attendance and provide support
+129,A,72.7,90.3,High,,High shortage risk: review attendance and provide support
+183,A,63.2,90.1,High,,High shortage risk: review attendance and provide support
+137,C,68.7,90.0,High,,High shortage risk: review attendance and provide support
+245,C,72.2,89.9,High,,High shortage risk: review attendance and provide support
+283,B,70.6,89.9,High,,High shortage risk: review attendance and provide support
+2,C,68.6,89.3,High,,High shortage risk: review attendance and provide support
+181,B,68.7,88.9,High,,High shortage risk: review attendance and provide support
+213,A,76.4,88.6,High,,High shortage risk: review attendance and provide support
+36,A,66.4,88.4,High,,High shortage risk: review attendance and provide support
+83,C,76.1,87.8,High,,High shortage risk: review attendance and provide support
+236,C,68.9,87.1,High,,High shortage risk: review attendance and provide support
+250,B,69.5,83.6,High,,High shortage risk: review attendance and provide support
+68,C,70.8,83.0,High,,High shortage risk: review attendance and provide support
+111,A,73.6,82.9,High,,High shortage risk: review attendance and provide support
+272,C,71.3,82.2,High,,High shortage risk: review attendance and provide support
+142,B,71.2,79.9,High,,High shortage risk: review attendance and provide support
+92,C,72.4,77.7,High,,High shortage risk: review attendance and provide support
+118,B,75.1,76.1,High,,High shortage risk: review attendance and provide support
+187,B,71.4,75.4,High,,High shortage risk: review attendance and provide support
+38,C,74.3,74.8,High,,High shortage risk: review attendance and provide support
+133,B,73.9,72.1,High,,High shortage risk: review attendance and provide support
+240,A,77.9,69.0,Medium,,Monitor attendance and encourage regular participation
+113,C,67.7,68.3,Medium,,Monitor attendance and encourage regular participation
+265,B,71.2,66.3,Medium,,Monitor attendance and encourage regular participation
+281,C,76.5,65.2,Medium,,Monitor attendance and encourage regular participation
+292,B,76.9,60.9,Medium,,Monitor attendance and encourage regular participation
+101,C,74.7,60.7,Medium,,Monitor attendance and encourage regular participation
+11,C,76.3,59.8,Medium,,Monitor attendance and encourage regular participation
+212,C,74.4,58.9,Medium,,Monitor attendance and encourage regular participation
+232,B,76.6,57.2,Medium,,Monitor attendance and encourage regular participation
+154,B,75.9,55.3,Medium,,Monitor attendance and encourage regular participation
+46,B,77.7,54.9,Medium,,Monitor attendance and encourage regular participation
+22,B,78.9,54.8,Medium,,Monitor attendance and encourage regular participation
+114,A,79.5,53.8,Medium,,Monitor attendance and encourage regular participation
+175,B,79.4,51.9,Medium,,Monitor attendance and encourage regular participation
+151,B,69.2,49.5,Medium,,Monitor attendance and encourage regular participation
+261,A,80.4,48.7,Medium,,Monitor attendance and encourage regular participation
+143,C,75.9,47.0,Medium,,Monitor attendance and encourage regular participation
+12,A,75.4,46.9,Medium,,Monitor attendance and encourage regular participation
+233,C,72.9,41.9,Medium,,Monitor attendance and encourage regular participation
+188,C,75.5,41.7,Medium,,Monitor attendance and encourage regular participation
+91,B,87.4,38.0,Low,,Attendance is on track: continue attending regularly
+139,B,75.6,36.0,Low,,Attendance is on track: continue attending regularly
+35,C,76.3,36.0,Low,,Attendance is on track: continue attending regularly
+102,A,71.0,35.5,Low,,Review attendance and encourage regular participation
+9,A,72.8,33.6,Low,,Review attendance and encourage regular participation
+130,B,71.0,32.0,Low,,Review attendance and encourage regular participation
+145,B,77.5,30.3,Low,,Attendance is on track: continue attending regularly
+216,A,83.3,29.1,Low,,Attendance is on track: continue attending regularly
+120,A,76.5,28.7,Low,,Attendance is on track: continue attending regularly
+77,C,72.8,28.7,Low,,Review attendance and encourage regular participation
+207,A,69.7,26.8,Low,,Review attendance and encourage regular participation
+122,C,79.3,25.8,Low,,Attendance is on track: continue attending regularly
+55,B,68.4,24.8,Low,,Review attendance and encourage regular participation
+282,A,78.9,24.7,Low,,Attendance is on track: continue attending regularly
+81,A,79.3,24.2,Low,,Attendance is on track: continue attending regularly
+295,B,78.1,24.1,Low,,Attendance is on track: continue attending regularly
+33,A,72.5,23.9,Low,,Review attendance and encourage regular participation
+204,A,77.0,23.3,Low,,Attendance is on track: continue attending regularly
+18,A,86.7,23.1,Low,,Attendance is on track: continue attending regularly
+14,C,78.7,21.8,Low,,Attendance is on track: continue attending regularly
+264,A,77.2,21.6,Low,,Attendance is on track: continue attending regularly
+271,B,78.4,19.3,Low,,Attendance is on track: continue attending regularly
+20,C,73.6,18.7,Low,,Review attendance and encourage regular participation
+275,C,74.8,18.6,Low,,Review attendance and encourage regular participation
+294,A,76.9,17.4,Low,,Attendance is on track: continue attending regularly
+152,C,74.2,15.5,Low,,Review attendance and encourage regular participation
+158,C,85.8,15.5,Low,,Attendance is on track: continue attending regularly
+244,B,77.3,14.1,Low,,Attendance is on track: continue attending regularly
+153,A,75.9,10.6,Low,,Attendance is on track: continue attending regularly
+161,C,77.1,10.3,Low,,Attendance is on track: continue attending regularly
+66,A,84.9,9.9,Low,,Attendance is on track: continue attending regularly
+73,B,77.1,9.7,Low,,Attendance is on track: continue attending regularly
+13,B,87.0,9.0,Low,,Attendance is on track: continue attending regularly
+285,A,77.9,8.4,Low,,Attendance is on track: continue attending regularly
+157,B,74.3,8.4,Low,,Review attendance and encourage regular participation
+273,A,79.9,7.8,Low,,Attendance is on track: continue attending regularly
+270,A,74.3,6.9,Low,,Review attendance and encourage regular participation
+280,B,74.9,6.8,Low,,Review attendance and encourage regular participation
+162,A,78.4,6.8,Low,,Attendance is on track: continue attending regularly
+45,A,80.5,6.8,Low,,Attendance is on track: continue attending regularly
+67,B,80.9,6.6,Low,,Attendance is on track: continue attending regularly
+128,C,79.3,6.3,Low,,Attendance is on track: continue attending regularly
+5,C,87.1,6.3,Low,,Attendance is on track: continue attending regularly
+159,A,76.9,6.2,Low,,Attendance is on track: continue attending regularly
+90,A,77.5,5.9,Low,,Attendance is on track: continue attending regularly
+193,B,80.7,5.4,Low,,Attendance is on track: continue attending regularly
+230,C,80.0,4.9,Low,,Attendance is on track: continue attending regularly
+284,C,80.8,4.7,Low,,Attendance is on track: continue attending regularly
+222,A,78.8,4.4,Low,,Attendance is on track: continue attending regularly
+298,B,86.4,3.6,Low,,Attendance is on track: continue attending regularly
+50,C,85.8,3.6,Low,,Attendance is on track: continue attending regularly
+147,A,80.7,3.5,Low,,Attendance is on track: continue attending regularly
+288,A,80.6,2.5,Low,,Attendance is on track: continue attending regularly
+164,C,80.7,2.5,Low,,Attendance is on track: continue attending regularly
+126,A,82.3,2.5,Low,,Attendance is on track: continue attending regularly
+229,B,81.9,2.4,Low,,Attendance is on track: continue attending regularly
+132,A,79.4,2.4,Low,,Attendance is on track: continue attending regularly
+19,B,81.2,2.0,Low,,Attendance is on track: continue attending regularly
+263,C,88.9,1.9,Low,,Attendance is on track: continue attending regularly
+74,C,84.3,1.8,Low,,Attendance is on track: continue attending regularly
+190,B,85.1,1.5,Low,,Attendance is on track: continue attending regularly
+108,A,86.1,1.5,Low,,Attendance is on track: continue attending regularly
+252,A,85.5,1.3,Low,,Attendance is on track: continue attending regularly
+165,A,82.7,1.2,Low,,Attendance is on track: continue attending regularly
+195,A,83.3,1.2,Low,,Attendance is on track: continue attending regularly
+140,C,82.5,1.1,Low,,Attendance is on track: continue attending regularly
+219,A,81.9,1.1,Low,,Attendance is on track: continue attending regularly
+87,A,92.5,1.0,Low,,Attendance is on track: continue attending regularly
+189,A,81.2,1.0,Low,,Attendance is on track: continue attending regularly
+156,A,84.1,0.9,Low,,Attendance is on track: continue attending regularly
+32,C,88.7,0.9,Low,,Attendance is on track: continue attending regularly
+223,B,79.9,0.8,Low,,Attendance is on track: continue attending regularly
+176,C,85.8,0.8,Low,,Attendance is on track: continue attending regularly
+16,B,86.1,0.6,Low,,Attendance is on track: continue attending regularly
+258,A,84.9,0.6,Low,,Attendance is on track: continue attending regularly
+62,C,82.1,0.5,Low,,Attendance is on track: continue attending regularly
+109,B,89.5,0.4,Low,,Attendance is on track: continue attending regularly
+197,C,84.6,0.3,Low,,Attendance is on track: continue attending regularly
+80,C,85.3,0.3,Low,,Attendance is on track: continue attending regularly
+205,B,85.1,0.3,Low,,Attendance is on track: continue attending regularly
+289,B,86.7,0.3,Low,,Attendance is on track: continue attending regularly
+144,A,83.5,0.3,Low,,Attendance is on track: continue attending regularly
+29,C,90.9,0.3,Low,,Attendance is on track: continue attending regularly
+299,C,79.9,0.2,Low,,Attendance is on track: continue attending regularly
+266,C,85.8,0.2,Low,,Attendance is on track: continue attending regularly
+167,C,81.1,0.1,Low,,Attendance is on track: continue attending regularly
+69,A,80.1,0.1,Low,,Attendance is on track: continue attending regularly
+224,C,84.7,0.0,Low,,Attendance is on track: continue attending regularly
+242,C,95.6,0.0,Low,,Attendance is on track: continue attending regularly
+287,C,85.0,0.0,Low,,Attendance is on track: continue attending regularly
+39,A,93.3,0.0,Low,,Attendance is on track: continue attending regularly
+34,B,87.0,0.0,Low,,Attendance is on track: continue attending regularly
+70,B,87.1,0.0,Low,,Attendance is on track: continue attending regularly
+257,C,84.0,0.0,Low,,Attendance is on track: continue attending regularly
+182,C,86.7,0.0,Low,,Attendance is on track: continue attending regularly
+59,C,93.8,0.0,Low,,Attendance is on track: continue attending regularly
+8,C,89.3,0.0,Low,,Attendance is on track: continue attending regularly
+1,B,88.9,0.0,Low,,Attendance is on track: continue attending regularly
+86,C,91.9,0.0,Low,,Attendance is on track: continue attending regularly
+218,C,93.7,0.0,Low,,Attendance is on track: continue attending regularly
+26,C,92.3,0.0,Low,,Attendance is on track: continue attending regularly
+210,A,82.4,0.0,Low,,Attendance is on track: continue attending regularly
+174,A,89.2,0.0,Low,,Attendance is on track: continue attending regularly
+191,C,88.5,0.0,Low,,Attendance is on track: continue attending regularly
+192,A,86.9,0.0,Low,,Attendance is on track: continue attending regularly
+99,A,93.3,0.0,Low,,Attendance is on track: continue attending regularly
+179,C,91.8,0.0,Low,,Attendance is on track: continue attending regularly
+127,B,85.4,0.0,Low,,Attendance is on track: continue attending regularly
+141,A,90.7,0.0,Low,,Attendance is on track: continue attending regularly
+136,B,92.5,0.0,Low,,Attendance is on track: continue attending regularly
+134,C,93.7,0.0,Low,,Attendance is on track: continue attending regularly
+135,A,93.9,0.0,Low,,Attendance is on track: continue attending regularly
+149,C,87.4,0.0,Low,,Attendance is on track: continue attending regularly
+150,A,94.8,0.0,Low,,Attendance is on track: continue attending regularly
+123,A,96.4,0.0,Low,,Attendance is on track: continue attending regularly
+121,B,90.1,0.0,Low,,Attendance is on track: continue attending regularly
+125,C,97.5,0.0,Low,,Attendance is on track: continue attending regularly
+124,B,84.7,0.0,Low,,Attendance is on track: continue attending regularly
+138,A,89.6,0.0,Low,,Attendance is on track: continue attending regularly
+21,A,89.0,0.0,Low,,Attendance is on track: continue attending regularly
+23,C,90.0,0.0,Low,,Attendance is on track: continue attending regularly
+291,A,89.5,0.0,Low,,Attendance is on track: continue attending regularly
+7,B,95.8,0.0,Low,,Attendance is on track: continue attending regularly
+184,B,94.3,0.0,Low,,Attendance is on track: continue attending regularly
+185,C,90.7,0.0,Low,,Attendance is on track: continue attending regularly
+163,B,87.9,0.0,Low,,Attendance is on track: continue attending regularly
+78,A,93.7,0.0,Low,,Attendance is on track: continue attending regularly
+82,B,93.7,0.0,Low,,Attendance is on track: continue attending regularly
+72,A,86.5,0.0,Low,,Attendance is on track: continue attending regularly
+76,B,91.3,0.0,Low,,Attendance is on track: continue attending regularly
+209,C,94.3,0.0,Low,,Attendance is on track: continue attending regularly
+202,B,84.3,0.0,Low,,Attendance is on track: continue attending regularly
+194,C,83.1,0.0,Low,,Attendance is on track: continue attending regularly
+198,A,97.5,0.0,Low,,Attendance is on track: continue attending regularly
+88,B,91.2,0.0,Low,,Attendance is on track: continue attending regularly
+199,B,86.8,0.0,Low,,Attendance is on track: continue attending regularly
+93,A,94.8,0.0,Low,,Attendance is on track: continue attending regularly
+89,C,94.7,0.0,Low,,Attendance is on track: continue attending regularly
+94,B,86.5,0.0,Low,,Attendance is on track: continue attending regularly
+100,B,92.8,0.0,Low,,Attendance is on track: continue attending regularly
+200,C,89.6,0.0,Low,,Attendance is on track: continue attending regularly
+201,A,96.2,0.0,Low,,Attendance is on track: continue attending regularly
+116,C,90.2,0.0,Low,,Attendance is on track: continue attending regularly
+112,B,85.4,0.0,Low,,Attendance is on track: continue attending regularly
+110,C,87.6,0.0,Low,,Attendance is on track: continue attending regularly
+107,C,88.0,0.0,Low,,Attendance is on track: continue attending regularly
+104,C,89.5,0.0,Low,,Attendance is on track: continue attending regularly
+106,B,86.9,0.0,Low,,Attendance is on track: continue attending regularly
+160,B,87.9,0.0,Low,,Attendance is on track: continue attending regularly
+119,C,83.7,0.0,Low,,Attendance is on track: continue attending regularly
+171,A,97.0,0.0,Low,,Attendance is on track: continue attending regularly
+172,B,93.9,0.0,Low,,Attendance is on track: continue attending regularly
+169,B,92.8,0.0,Low,,Attendance is on track: continue attending regularly
+170,C,90.1,0.0,Low,,Attendance is on track: continue attending regularly
+168,A,92.2,0.0,Low,,Attendance is on track: continue attending regularly
+178,B,85.7,0.0,Low,,Attendance is on track: continue attending regularly
+60,A,90.1,0.0,Low,,Attendance is on track: continue attending regularly
+231,A,91.3,0.0,Low,,Attendance is on track: continue attending regularly
+254,C,94.5,0.0,Low,,Attendance is on track: continue attending regularly
+255,A,96.0,0.0,Low,,Attendance is on track: continue attending regularly
+248,C,95.1,0.0,Low,,Attendance is on track: continue attending regularly
+251,C,89.9,0.0,Low,,Attendance is on track: continue attending regularly
+247,B,83.5,0.0,Low,,Attendance is on track: continue attending regularly
+71,C,83.8,0.0,Low,,Attendance is on track: continue attending regularly
+239,C,96.5,0.0,Low,,Attendance is on track: continue attending regularly
+238,B,92.1,0.0,Low,,Attendance is on track: continue attending regularly
+237,A,84.3,0.0,Low,,Attendance is on track: continue attending regularly
+228,A,90.2,0.0,Low,,Attendance is on track: continue attending regularly
+225,A,86.2,0.0,Low,,Attendance is on track: continue attending regularly
+226,B,96.7,0.0,Low,,Attendance is on track: continue attending regularly
+58,B,98.0,0.0,Low,,Attendance is on track: continue attending regularly
+57,A,96.0,0.0,Low,,Attendance is on track: continue attending regularly
+56,C,86.8,0.0,Low,,Attendance is on track: continue attending regularly
+262,B,82.8,0.0,Low,,Attendance is on track: continue attending regularly
+27,A,95.0,0.0,Low,,Attendance is on track: continue attending regularly
+24,A,97.4,0.0,Low,,Attendance is on track: continue attending regularly
+53,C,97.0,0.0,Low,,Attendance is on track: continue attending regularly
+52,B,94.3,0.0,Low,,Attendance is on track: continue attending regularly
+47,C,89.7,0.0,Low,,Attendance is on track: continue attending regularly
+49,B,85.9,0.0,Low,,Attendance is on track: continue attending regularly
+41,C,93.1,0.0,Low,,Attendance is on track: continue attending regularly
+43,B,86.5,0.0,Low,,Attendance is on track: continue attending regularly
+259,B,93.0,0.0,Low,,Attendance is on track: continue attending regularly
+260,C,95.4,0.0,Low,,Attendance is on track: continue attending regularly
+40,B,84.0,0.0,Low,,Attendance is on track: continue attending regularly
+274,B,93.1,0.0,Low,,Attendance is on track: continue attending regularly
+6,A,92.1,0.0,Low,,Attendance is on track: continue attending regularly
+279,A,94.9,0.0,Low,,Attendance is on track: continue attending regularly
+278,C,92.4,0.0,Low,,Attendance is on track: continue attending regularly
+276,A,92.8,0.0,Low,,Attendance is on track: continue attending regularly
